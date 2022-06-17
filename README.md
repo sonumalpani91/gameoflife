@@ -30,4 +30,9 @@ generations.
 
 # Run instruction
 
-1. git clone
+1. git clone https://github.com/sonumalpani91/gameoflife.git
+2. open this reso in your IDE eclipse/intellij 
+3. setup this project as java project
+4. got to file GameOfLife in this path - /scr/main/java/com/gof/core/GameOfLife.java
+5. right click and run
+6. give no of iteration to run
